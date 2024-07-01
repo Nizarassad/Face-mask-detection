@@ -1,4 +1,4 @@
-```markdown
+
 # Face Mask Detection and Classification in Real-Time
 
 ## Project Description
