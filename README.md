@@ -51,9 +51,9 @@ These models were chosen due to their different strengths and weaknesses, such a
 
 We tested our model on images and videos to evaluate its real-world performance. The models should be able to detect face masks in different settings, such as indoor and outdoor environments, and varying lighting conditions.
 
-**Images:**We tested the models on a set of four random images, which included the 3 different classes. In most cases, the models were able to successfully identify the presence and position of face masks, even under challenging lighting conditions. 
+**Images:** We tested the models on a set of four random images, which included the 3 different classes. In most cases, the models were able to successfully identify the presence and position of face masks, even under challenging lighting conditions. 
 
-**Videos:**We further evaluated the performances of all four models on video files, where each model processed a continuous stream of frames in real-time. The models maintained a consistent level of accuracy throughout the video, accurately detecting face masks despite changes in subject positions, lighting, and background. 
+**Videos:** We further evaluated the performances of all four models on video files, where each model processed a continuous stream of frames in real-time. The models maintained a consistent level of accuracy throughout the video, accurately detecting face masks despite changes in subject positions, lighting, and background. 
 
 
 
