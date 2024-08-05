@@ -2,7 +2,7 @@
 # Face Mask Detection and Classification in Real-Time
 
 <p align="center">
-  <img src="https://drive.google.com/uc?id=1fD0fEHzppnu_MLXEjyh07JmNHjKSH0JA" alt="Black Friday Analysis">
+  <img src="https://drive.google.com/uc?id=1fD0fEHzppnu_MLXEjyh07JmNHjKSH0JA" alt="Face mask">
 </p>
 
 The goal of this project is to develop a Face Covering Detection (FCD) computer vision system. The system is capable of detecting whether a person is wearing a face mask correctly, incorrectly, or not wearing a mask at all. The three classes for classification are:
