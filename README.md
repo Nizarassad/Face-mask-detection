@@ -2,6 +2,9 @@
 # Face Mask Detection and Classification in Real-Time
 
 ## Project Description
+<p align="center">
+  <img src="https://drive.google.com/uc?id=1fD0fEHzppnu_MLXEjyh07JmNHjKSH0JA" alt="Black Friday Analysis">
+</p>
 
 This project aims to develop a real-time face mask detection and classification system using computer vision techniques. The system is capable of detecting whether a person is wearing a face mask correctly, incorrectly, or not wearing a mask at all. The three classes for classification are:
 
