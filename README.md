@@ -72,12 +72,6 @@ The table below shows the performances of the four models on the test set:
 
 ## Discussion
 
-The CNN+HOG model achieved the highest accuracy of 85.15%. This model combined the strengths of a deep Convolutional Neural Network (CNN) and the Histogram of Oriented Gradients (HOG) features. However, it had a much larger model size and longer inference time compared to the other models, which may be a limiting factor given that inference speed is very important.
-
-The MLP+LBP model provided a good balance between accuracy, speed, and model size, making it a suitable choice for real-time applications where speed and model size are primary concerns. This model used a simple Multi-Layer Perceptron (MLP) architecture with Local Binary Patterns (LBP) features, which are computationally efficient and invariant to lighting changes.
-
-The SVM+HOG and MLP+HOG models achieved comparable accuracy scores, but the MLP+HOG model had the advantage of higher precision and lower inference time. The SVM+HOG model used a Support Vector Machine (SVM) with HOG features, which is a popular combination for object detection tasks. However, it had a longer inference time compared to the MLP-based models.
-
 Overall, the CNN+HOG model delivered the best performance in terms of accuracy, making it the best choice for the face mask detection system. However, the MLP+LBP model can be more recommended as speed and model size are important.
 
 ## References
