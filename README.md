@@ -6,7 +6,7 @@
   <img src="https://drive.google.com/uc?id=1fD0fEHzppnu_MLXEjyh07JmNHjKSH0JA" alt="Black Friday Analysis">
 </p>
 
-This project aims to develop a real-time face mask detection and classification system using computer vision techniques. The system is capable of detecting whether a person is wearing a face mask correctly, incorrectly, or not wearing a mask at all. The three classes for classification are:
+The goal of this project is to develop a Face Covering Detection (FCD) computer vision system. The system is capable of detecting whether a person is wearing a face mask correctly, incorrectly, or not wearing a mask at all. The three classes for classification are:
 
 1. **Mask**: The face mask is worn correctly, covering both the nose and mouth.
 2. **No Mask**: The face mask is not worn, and the face is fully visible.
@@ -28,10 +28,10 @@ This project aims to develop a real-time face mask detection and classification 
 - **Webcam Integration**: OpenCV for capturing real-time video feed
 - **Pre-trained Models**: Transfer learning using models like MobileNetV2 or ResNet
 
-## Data
+## Dataset
 
-The goal of this project is to develop a Face Covering Detection (FCD) computer vision system. A ready-to-use dataset of cropped photographs of faces has been provided, categorized into three classes: appropriately wearing a face mask, not wearing a face mask, or wearing a face mask incorrectly. The dataset includes testing, validation, and training sets.
-
+The dataset can be found in the link below.
+- https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
 
 ## Implemented Methods
 
