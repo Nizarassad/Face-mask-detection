@@ -1,7 +1,6 @@
 
 # Face Mask Detection and Classification in Real-Time
 
-## Project Description
 <p align="center">
   <img src="https://drive.google.com/uc?id=1fD0fEHzppnu_MLXEjyh07JmNHjKSH0JA" alt="Black Friday Analysis">
 </p>
@@ -23,7 +22,7 @@ The goal of this project is to develop a Face Covering Detection (FCD) computer 
 ## Technologies Used
 
 - **Programming Languages**: Python
-- **Deep Learning Framework**: TensorFlow/Keras or PyTorch
+- **Deep Learning Framework**: TensorFlow/Keras and PyTorch
 - **Computer Vision**: OpenCV
 - **Webcam Integration**: OpenCV for capturing real-time video feed
 - **Pre-trained Models**: Transfer learning using models like MobileNetV2 or ResNet
