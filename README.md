@@ -53,11 +53,11 @@ We tested our model on images and videos to evaluate its real-world performance.
 
 #### Images
 
-We tested the models on a set of four random images, which included individuals wearing masks correctly, incorrectly, and not wearing masks at all. In most cases, the models were able to successfully identify the presence and position of face masks, even under challenging lighting conditions. These results indicate the models' effectiveness and potential applicability in real-world situations. Nevertheless, some refinements and improvements are still necessary to achieve optimal performance across all scenarios.
+We tested the models on a set of four random images, which included individuals wearing masks correctly, incorrectly, and not wearing masks at all. In most cases, the models were able to successfully identify the presence and position of face masks, even under challenging lighting conditions. 
 
 #### Videos
 
-We further evaluated the performances of all four models on video files, where each model processed a continuous stream of frames in real-time. The models maintained a consistent level of accuracy throughout the video, accurately detecting face masks despite changes in subject positions, lighting, and background. However, some false positive cases were still observed in certain frames. While the general performance of the models is promising, further fine-tuning and optimization may be crucial for deployment in real-world applications where minimizing false positives is essential.
+We further evaluated the performances of all four models on video files, where each model processed a continuous stream of frames in real-time. The models maintained a consistent level of accuracy throughout the video, accurately detecting face masks despite changes in subject positions, lighting, and background. 
 
 ### Quantitative Results
 
