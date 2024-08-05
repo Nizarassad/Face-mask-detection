@@ -33,17 +33,19 @@ The goal of this project is to develop a Face Covering Detection (FCD) computer 
 The dataset can be found in the link below.
 - https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
 
-## Implemented Methods
+## Models
 
-Machine learning models are required to detect human faces in various positions and lighting conditions and detect the presence and location of face coverings. In this study, four machine learning combinations were compared based on their accuracy, precision, recall, inference time, and model size:
+In this study, four machine learning combinations were compared based on their accuracy, precision, recall, inference time, and model size:
 
 1. **CNN+HOG**
 2. **SVM+HOG**
 3. **MLP+HOG**
 4. **MLP+LBP**
 
-These models were chosen due to their different strengths and weaknesses, such as size differences. HOG and LBP features were extracted from the original images to create a more condensed representation of the images. HOG features record information on gradient orientation, while LBP features encode regional texture patterns. The Standard Scaler was employed to standardize the features, giving features with a mean of 0 and a variance of 1.
+These models were chosen due to their different strengths and weaknesses, such as size differences. HOG and LBP features were extracted from the original images to create a more condensed representation of the images. 
 
+- CNN+HOG model can be downloaded through this link:
+- https://drive.google.com/file/d/165IkA47Tov2M3CfhYvJuQ5mCWGxkhMe1/view?usp=sharing
 
 ## Results
 
