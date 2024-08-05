@@ -44,8 +44,7 @@ In this study, four machine learning combinations were compared based on their a
 
 These models were chosen due to their different strengths and weaknesses, such as size differences. HOG and LBP features were extracted from the original images to create a more condensed representation of the images. 
 
-- CNN+HOG model can be downloaded through this link:
-- https://drive.google.com/file/d/165IkA47Tov2M3CfhYvJuQ5mCWGxkhMe1/view?usp=sharing
+- CNN+HOG model can be downloaded through this link: https://drive.google.com/file/d/165IkA47Tov2M3CfhYvJuQ5mCWGxkhMe1/view?usp=sharing
 
 ## Results
 
